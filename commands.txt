@@ -1,0 +1,27 @@
+# Basic linux commands:
+
+mkdir - create folder or directory 
+
+ls - list 
+
+ls -a list all
+
+ls -la - list all long 
+
+cd - change dirceotry 
+
+touch - to create file
+
+rm - remove or delete file
+
+rm -rf - detle folder or dirctory 
+
+rm -rf * - delte all
+
+cat - to view 
+
+
+#GIT commands
+
+git init       - start git
+git add .      - to add all files
